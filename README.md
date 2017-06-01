@@ -7,11 +7,11 @@ Install webfont kit in your local node modules using following command
 npm install wfk-caveat
 ```
 
-Include roboto-condensed.css in your index.html or .angular-cli.json
+Include caveat.css in your index.html or .angular-cli.json
 
 
 ```
-"../node_modules/wfk-caveat/roboto-caveat.css"
+"../node_modules/wfk-caveat/caveat.css"
 ```
 
 If you want to use font family constants in your scss stylesheet
