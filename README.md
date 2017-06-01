@@ -1,5 +1,5 @@
-#WebFont Kit for Google Fonts - Roboto-Condensed
-This is a WebFont Kit package for google open fonts Roboto-Condensed
+#WebFont Kit for Google Fonts - Caveat
+This is a WebFont Kit package for google open fonts Caveat
 
 Install webfont kit in your local node modules using following command
 
